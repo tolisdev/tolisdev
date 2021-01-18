@@ -1,4 +1,4 @@
-###Hey there!
+<h1>Hey there! :wave:</h1>
 
 [![Header](https://i.imgur.com/pumUBiZ.png "Header")](https://tolis.ga/)
 
