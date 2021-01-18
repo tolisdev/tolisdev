@@ -26,6 +26,9 @@ FatCat- Moderator
 <br>
 TechHost - Support
 
+<h1>🔨 Tools and Technologies</h1>
+https://img.shields.io/badge/OS-Ubuntu-brightgreen
+
 <h1>🎇Facts about me</h1>
 - 🔭 I’m currently working on FLL Robotics Competition
 <br>
