@@ -46,5 +46,5 @@ TechHost - Support
 - ⚡ Fun fact: I live in Greece!
 
 <h1>Stats</h1>
-<image href="https://github-readme-stats.vercel.app/api?username=tolisdev)](https://github.com/anuraghazra/github-readme-stats">
+![Tolis's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolisdev&show_icons=true&theme=radical)
 
