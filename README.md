@@ -3,12 +3,14 @@
 [![Header](https://i.imgur.com/pumUBiZ.png "Header")](https://tolis.ga/)
 
 <h1>🌐 Website</h1>
-You can visit my website on https://tolis.ga
+You can visit my website on https://tolis.tech
 
 <h1>📃 Jobs</h1>
 <h3>🤖 Discord Bots</h3>
 Kalm Music Bot - Music bot for discord based on discord.py framework
+<br>
 Bloxlion Discord Bot - Multipurpose discord bot based on discord.py framework
+<br>
 Talus Discord Bot - Multipurpose discord bot based in discord.py framework.
 
 <h3>🖥 Hosting Providers</h3>
@@ -42,4 +44,7 @@ TechHost - Support
 - 😄 Pronouns: He/Him
 <br>
 - ⚡ Fun fact: I live in Greece!
+
+<h1>Stats</h1>
+[![Tolis's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolisdev)](https://github.com/anuraghazra/github-readme-stats)
 
