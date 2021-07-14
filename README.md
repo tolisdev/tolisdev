@@ -1,4 +1,5 @@
 # Hey, my name is Tolis!
+![Twitter Follow](https://img.shields.io/twitter/follow/tolisfx?style=for-the-badge)
 Hey! I'm Tolis aka TolisDev. I'm a freelance fullstack developer, with lots of experience with many languages and frameworks.
 <br>
 <br>
