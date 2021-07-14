@@ -1,51 +1,25 @@
-<h1>Hey there! :wave:</h1>
+# Hey, my name is Tolis!
+Hey! I'm Tolis aka TolisDev. I'm a freelance fullstack developer, with lots of experience with many languages and frameworks.
+<br>
+<br>
+### Languages and Tools that I use:
 
-[![Header](https://i.imgur.com/pumUBiZ.png "Header")](https://tolis.ga/)
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/visualstudiocode.svg" />
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
+[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
+[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-<h1>🌐 Website</h1>
-You can visit my website on https://tolis.tech
-
-<h1>📃 Jobs</h1>
-<h3>🤖 Discord Bots</h3>
-Kalm Music Bot - Music bot for discord based on discord.py framework
-<br>
-Bloxlion Discord Bot - Multipurpose discord bot based on discord.py framework
-<br>
-Talus Discord Bot - Multipurpose discord bot based in discord.py framework.
-
-<h3>🖥 Hosting Providers</h3>
-SnowyHost - Co-Owner
-<br>
-BombHost - Co-Owner
-<br>
-CubeMC - Co-Owner
-<br>
-Quackhost - Support
-<br>
-Idley- Head Mod
-<br>
-FatCat- Moderator
-<br>
-TechHost - Support
-
-<h1>🎇Facts about me</h1>
-- 🔭 I’m currently working on FLL Robotics Competition
-<br>
-- 🌱 I’m currently learning Docker and Kubernetes
-<br>
-- 👯 I’m looking to collaborate on Hosting Providers
-<br>
-- 🤔 I’m looking for help with Java
-<br>
-- 💬 Ask me about anything!
-<br>
-- 📫 How to reach me: Discord: Tolis#6809
-<br>
-- 😄 Pronouns: He/Him
-<br>
-- ⚡ Fun fact: I live in Greece!
-
-<h1>Stats</h1>
-![Tolis's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolisdev&show_icons=true&theme=radical)
-
+<br />
+<br />
