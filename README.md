@@ -24,7 +24,7 @@
 
 ### 🔉 Now Listening to
 
-[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-tolisdev.vercel.app/api/spotify)](https://open.spotify.com/user/apostokats)
 
 <br>
 
