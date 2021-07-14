@@ -1,7 +1,7 @@
 <h1>Hey there! :wave:</h1>
 
 [![Header](https://i.imgur.com/pumUBiZ.png "Header")](https://tolis.ga/)
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[ICON SLUG].svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/visualstudiocode].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/visualstudiocode.svg" />
 
 <h1>🌐 Website</h1>
 You can visit my website on https://tolis.tech
