@@ -1,5 +1,4 @@
 # Hey, my name is Tolis!
-![Twitter Follow](https://img.shields.io/twitter/follow/tolisfx?style=for-the-badge)
 Hey! I'm Tolis aka TolisDev. I'm a freelance fullstack developer, with lots of experience with many languages and frameworks.
 <br>
 <br>
@@ -23,3 +22,4 @@ Hey! I'm Tolis aka TolisDev. I'm a freelance fullstack developer, with lots of e
 
 ### Github Stats
 ![Tolis' GitHub stats](https://github-readme-stats-tolisdev.vercel.app/api?username=tolisdev&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats-tolisdev.vercel.app/api/top-langs/?username=tolisdev)](https://github.com/anuraghazra/github-readme-stats)
