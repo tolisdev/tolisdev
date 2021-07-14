@@ -30,6 +30,6 @@ Hey! I'm Tolis aka TolisDev. I'm a freelance fullstack developer, with lots of e
 <summary>Top Used Languages</summary>
 <br>
 
-[![Top Langs](https://github-readme-stats-tolisdev.vercel.app/api/top-langs/?username=tolisdev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-tolisdev.vercel.app/api/top-langs/?username=tolisdev&theme=radical)](https://github.com/tolisdev)
 </details>
 
