@@ -22,6 +22,12 @@
 
 - ⚡ Fun fact **I love robotics**
 
+### 🔉 Now Listening to
+
+[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/tolisdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tolisdev" height="30" width="40" /></a>
