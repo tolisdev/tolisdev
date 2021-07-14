@@ -20,6 +20,16 @@ Hey! I'm Tolis aka TolisDev. I'm a freelance fullstack developer, with lots of e
 <br />
 <br />
 
-### Github Stats
+<details>
+<summary>GitHub Stats</summary>
+<br>
+
 ![Tolis' GitHub stats](https://github-readme-stats-tolisdev.vercel.app/api?username=tolisdev&show_icons=true&theme=radical)
+</details>
+<details>
+<summary>Top Used Languages</summary>
+<br>
+
 [![Top Langs](https://github-readme-stats-tolisdev.vercel.app/api/top-langs/?username=tolisdev)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
